@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* Rails version - 4.2.3
 
-* Ruby version
+* API Used - AWS-SDK,Stripe API
 
-* System dependencies
+*Database Used - postegresql
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+SaaS App to Manage Projects Upload and Share Data along with messaging and Project Head Functionality on Rails Edit
+Add topics
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
